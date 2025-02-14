@@ -17,7 +17,7 @@
             <RowDefinition Height=".5*" />
         </Grid.RowDefinitions>
 
-        <Label Content="VÁLASSZON 12 GYÁRTÓ 325 LAPTOPJA KÖZÜL!" Grid.Column="0" Grid.Row="0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="18" FontWeight="Bold" />
+        <Label x:Name="mainLB" Content="TEMP" Grid.Column="0" Grid.Row="0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="18" FontWeight="Bold" />
         <Label Content="Konfigurációk" Grid.Column="0" Grid.Row="0" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="16" FontWeight="Bold" />
         <ListBox x:Name="konfList" Grid.Column="0" Grid.Row="1" Grid.RowSpan="2" SelectionChanged="konfList_SelectionChanged"/>
 

@@ -31,6 +31,10 @@ namespace LaptopsGUI
             konfList.SelectedIndex = 0;
             konfList.Focus();
 
+            //12. feladat
+            var f12 = laptops.Select(f => f.Manufacturer.ManufacturerName).Distinct().Count();
+            mainLB.Content = $"VÁLASSZON {f12} GYÁRTÓ {laptops.Count} LAPTOPJA KÖZÜL!";
+
         }
 
         //10. feladat
