@@ -27,7 +27,7 @@ namespace LaptopsCLI
 
             //7. feladat
             var f7 = laptops.Where(f => f.Category.CategoryName.Contains("Gaming")).OrderBy(f => f.Price).Take(20).ToList();
-            var lines = f7.Select(l => $"{l.Manufacturer.ManufacturerName} | {l.Model}\n{l.CPU} | {l.Storage} | {l.Screen}\n").ToList();
+            var lines = f7.Select(l => $"{l.Manufacturer.ManufacturerName} {l.Model}\n\t{l.CPU} \n\t{l.Storage} \n\t{l.Screen}\n").ToList();
             File.WriteAllLines(@"..\..\..\src\cheap.txt", lines);
 
         }
