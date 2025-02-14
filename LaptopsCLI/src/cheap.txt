@@ -1,0 +1,60 @@
+Acer | C740-C9QX (3205U/2GB/32GB/Chrome
+Intel Celeron Dual Core 3205U 1.5GHz | 32GB SSD | 11.6 col - 1366x768
+
+Vero | V131 (X5-Z8350/4GB/32GB/FHD/W10)
+Intel Atom X5-Z8350 1.44GHz | 32GB Flash Storage | 13.3 col - Full HD 1920x1080
+
+Acer | Chromebook 15
+Intel Celeron Dual Core 3205U 1.5GHz | 16GB SSD | 15.6 col - 1366x768
+
+HP | Stream 11-Y000na
+Intel Celeron Dual Core N3060 1.6GHz | 32GB Flash Storage | 11.6 col - 1366x768
+
+HP | Stream 11-Y000na
+Intel Celeron Dual Core N3060 1.6GHz | 32GB Flash Storage | 11.6 col - 1366x768
+
+HP | Stream 11-Y000na
+Intel Celeron Dual Core N3060 1.6GHz | 32GB Flash Storage | 11.6 col - 1366x768
+
+Vero | V142 (X5-Z8350/2GB/32GB/W10)
+Intel Atom X5-Z8350 1.44GHz | 32GB Flash Storage | 14.0 col - 1366x768
+
+Lenovo | IdeaPad 100S-14IBR
+Intel Celeron Dual Core N3050 1.6GHz | 64GB Flash Storage | 14.0 col - 1366x768
+
+Lenovo | IdeaPad 100S-14IBR
+Intel Celeron Dual Core N3050 1.6GHz | 64GB Flash Storage | 14.0 col - 1366x768
+
+Lenovo | IdeaPad 100S-14IBR
+Intel Celeron Dual Core N3050 1.6GHz | 64GB Flash Storage | 14.0 col - 1366x768
+
+HP | Stream 14-AX000nv
+Intel Celeron Dual Core N3060 1.6GHz | 32GB Flash Storage | 14.0 col - 1366x768
+
+Lenovo | V110-15IAP (N3350/4GB/128GB/No
+Intel Celeron Dual Core N3350 1.1GHz | 128GB SSD | 15.6 col - 1366x768
+
+Acer | Aspire 3
+Intel Celeron Dual Core N3350 2GHz | 1TB HDD | 15.6 col - 1366x768
+
+Asus | L403NA-GA013TS (N3350/4GB/32GB/W10)
+Intel Celeron Dual Core N3350 1.1GHz | 32GB Flash Storage | 14.0 col - 1366x768
+
+Asus | Chromebook C202SA
+Intel Celeron Dual Core N3060 1.6GHz | 16GB Flash Storage | 11.6 col - 1366x768
+
+Acer | Aspire ES1-531
+Intel Celeron Dual Core N3060 1.6GHz | 500GB HDD | 15.6 col - 1366x768
+
+Acer | Aspire ES1-531
+Intel Celeron Dual Core N3060 1.6GHz | 500GB HDD | 15.6 col - 1366x768
+
+Acer | Aspire ES1-531
+Intel Celeron Dual Core N3060 1.6GHz | 500GB HDD | 15.6 col - 1366x768
+
+HP | 15-BA015wm (E2-7110/4GB/500GB/W10)
+AMD E-Series 7110 1.8GHz | 500GB HDD | 15.6 col - 1366x768
+
+Lenovo | IdeaPad 320-15AST
+AMD E-Series 9000 2.2GHz | 500GB HDD | 15.6 col - 1366x768
+
