@@ -1,60 +1,60 @@
-Acer | C740-C9QX (3205U/2GB/32GB/Chrome
-Intel Celeron Dual Core 3205U 1.5GHz | 32GB SSD | 11.6 col - 1366x768
+Lenovo | Legion Y520-15IKBN
+Intel Core i5 7300HQ 2.5GHz | 1TB HDD | 15.6 col - IPS Panel Full HD 1920x1080
 
-Vero | V131 (X5-Z8350/4GB/32GB/FHD/W10)
-Intel Atom X5-Z8350 1.44GHz | 32GB Flash Storage | 13.3 col - Full HD 1920x1080
+MSI | PL60 7RD
+Intel Core i7 7500U 2.7GHz | 1TB HDD | 15.6 col - IPS Panel Full HD 1920x1080
 
-Acer | Chromebook 15
-Intel Celeron Dual Core 3205U 1.5GHz | 16GB SSD | 15.6 col - 1366x768
+HP | Pavilion 15-cb003nv
+Intel Core i7 7700HQ 2.8GHz | 1TB HDD | 15.6 col - IPS Panel Full HD 1920x1080
 
-HP | Stream 11-Y000na
-Intel Celeron Dual Core N3060 1.6GHz | 32GB Flash Storage | 11.6 col - 1366x768
+Asus | Rog GL552VW-DM201T
+Intel Core i7 6700HQ 2.6GHz | 256GB SSD +  1TB HDD | 15.6 col - IPS Panel Full HD 1920x1080
 
-HP | Stream 11-Y000na
-Intel Celeron Dual Core N3060 1.6GHz | 32GB Flash Storage | 11.6 col - 1366x768
+Dell | Inspiron 7567
+Intel Core i5 7300HQ 2.5GHz | 1TB Hybrid | 15.6 col - Full HD 1920x1080
 
-HP | Stream 11-Y000na
-Intel Celeron Dual Core N3060 1.6GHz | 32GB Flash Storage | 11.6 col - 1366x768
+Lenovo | Legion Y520-15IKBN
+Intel Core i5 7300HQ 2.5GHz | 128GB SSD +  1TB HDD | 15.6 col - IPS Panel Full HD 1920x1080
 
-Vero | V142 (X5-Z8350/2GB/32GB/W10)
-Intel Atom X5-Z8350 1.44GHz | 32GB Flash Storage | 14.0 col - 1366x768
+Asus | Rog G752VL-GC088D
+Intel Core i7 6700HQ 2.6GHz | 1TB HDD | 17.3 col - IPS Panel Full HD 1920x1080
 
-Lenovo | IdeaPad 100S-14IBR
-Intel Celeron Dual Core N3050 1.6GHz | 64GB Flash Storage | 14.0 col - 1366x768
+Lenovo | IdeaPad Y700-15ISK
+Intel Core i7 6700HQ 2.6GHz | 128GB SSD +  1TB HDD | 15.6 col - IPS Panel Full HD / Touchscreen 1920x1080
 
-Lenovo | IdeaPad 100S-14IBR
-Intel Celeron Dual Core N3050 1.6GHz | 64GB Flash Storage | 14.0 col - 1366x768
+HP | Omen -
+Intel Core i5 6300HQ 2.3GHz | 128GB SSD +  1TB HDD | 17.3 col - IPS Panel Full HD 1920x1080
 
-Lenovo | IdeaPad 100S-14IBR
-Intel Celeron Dual Core N3050 1.6GHz | 64GB Flash Storage | 14.0 col - 1366x768
+MSI | GP62M 7RDX
+Intel Core i7 7700HQ 2.8GHz | 128GB SSD +  1TB HDD | 15.6 col - Full HD 1920x1080
 
-HP | Stream 14-AX000nv
-Intel Celeron Dual Core N3060 1.6GHz | 32GB Flash Storage | 14.0 col - 1366x768
+MSI | GL62M 7RDX
+Intel Core i7 7700HQ 2.8GHz | 128GB SSD +  1TB HDD | 15.6 col - Full HD 1920x1080
 
-Lenovo | V110-15IAP (N3350/4GB/128GB/No
-Intel Celeron Dual Core N3350 1.1GHz | 128GB SSD | 15.6 col - 1366x768
+Asus | FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce
+Intel Core i7 6700HQ 2.6GHz | 1TB HDD | 15.6 col - Full HD 1920x1080
 
-Acer | Aspire 3
-Intel Celeron Dual Core N3350 2GHz | 1TB HDD | 15.6 col - 1366x768
+MSI | GL62 6QF
+Intel Core i7 6700HQ 2.6GHz | 128GB SSD +  1TB HDD | 15.6 col - Full HD 1920x1080
 
-Asus | L403NA-GA013TS (N3350/4GB/32GB/W10)
-Intel Celeron Dual Core N3350 1.1GHz | 32GB Flash Storage | 14.0 col - 1366x768
+Lenovo | Legion Y520-15IKBN
+Intel Core i7 7700HQ 2.8GHz | 128GB SSD +  1TB HDD | 15.6 col - IPS Panel Full HD 1920x1080
 
-Asus | Chromebook C202SA
-Intel Celeron Dual Core N3060 1.6GHz | 16GB Flash Storage | 11.6 col - 1366x768
+MSI | GL72M 7RDX
+Intel Core i7 7700HQ 2.8GHz | 128GB SSD +  1TB HDD | 17.3 col - Full HD 1920x1080
 
-Acer | Aspire ES1-531
-Intel Celeron Dual Core N3060 1.6GHz | 500GB HDD | 15.6 col - 1366x768
+Lenovo | Legion Y520-15IKBN
+Intel Core i7 7700HQ 2.8GHz | 512GB SSD | 15.6 col - Full HD 1920x1080
 
-Acer | Aspire ES1-531
-Intel Celeron Dual Core N3060 1.6GHz | 500GB HDD | 15.6 col - 1366x768
+Dell | Inspiron 7567
+Intel Core i7 7700HQ 2.8GHz | 1TB HDD | 15.6 col - Full HD 1920x1080
 
-Acer | Aspire ES1-531
-Intel Celeron Dual Core N3060 1.6GHz | 500GB HDD | 15.6 col - 1366x768
+MSI | GE62 Apache
+Intel Core i7 6700HQ 2.6GHz | 128GB SSD +  1TB HDD | 15.6 col - Full HD 1920x1080
 
-HP | 15-BA015wm (E2-7110/4GB/500GB/W10)
-AMD E-Series 7110 1.8GHz | 500GB HDD | 15.6 col - 1366x768
+Acer | Nitro 5
+Intel Core i7 7700HQ 2.8GHz | 128GB SSD +  1TB HDD | 15.6 col - IPS Panel Full HD 1920x1080
 
-Lenovo | IdeaPad 320-15AST
-AMD E-Series 9000 2.2GHz | 500GB HDD | 15.6 col - 1366x768
+Lenovo | IdeaPad Y700-15ISK
+Intel Core i7 6700HQ 2.6GHz | 128GB SSD +  1TB HDD | 15.6 col - IPS Panel Full HD 1920x1080
 

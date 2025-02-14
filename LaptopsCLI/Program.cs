@@ -22,6 +22,8 @@ namespace LaptopsCLI
             {
                 Console.WriteLine($"[{f6.IndexOf(l) + 1}] {l.ToString()}");
             }
+            var f6AVG = f6.Average(f => f.Price);
+            Console.WriteLine($"A laptopok átlag ára: {f6AVG} INR");
 
             //7. feladat
             var f7 = laptops.Where(f => f.Category.CategoryName.Contains("Gaming")).OrderBy(f => f.Price).Take(20).ToList();
